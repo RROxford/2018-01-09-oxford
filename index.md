@@ -140,13 +140,13 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
   The workshop organisers have checked that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible. Step-free access is
-  through the car park behind the Clarendon Press Building on Walton
-  Street. Participants using this entrance who are not from the
-  faculties of Linguistics, Philology and Phonetics or Medieval and
-  Modern Languages should contact the host in advance of the
-  workshop.</li>
-  <li>Accessible restrooms are available.</li>
+	<li>The room is wheelchair / scooter accessible. Step-free access is
+	through the car park behind the Clarendon Press Building on Walton
+	Street. If you will be using this entrance and are not from the
+	faculties of Linguistics, Philology and Phonetics or Medieval and
+	Modern Languages, please get in touch (using the contact details
+	below) in advance of the workshop.</li>
+	<li>Accessible restrooms are available.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
