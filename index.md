@@ -46,11 +46,6 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -67,17 +62,6 @@ and our administrator may contact you if we need any extra information.</h4>
   {% include lc/intro.html %}
 {% endif %}
 
-<p> This workshop is run by the <a
-href="https://rroxford.github.io/">Reproducible Research Oxford</a>
-project, hosted by Stephen Jones (Faculty of Medieval and Modern
-Languages, University of Oxford). For announcements about future
-workshops and related activities, check our <a
-href="https://rroxford.github.io/">project website</a>, subscribe to
-our <a href="https://web.maillist.ox.ac.uk/ox/info/rroxford"> mailing
-list</a>, and follow us on Twitter <a
-href="http://twitter.com/RR_Oxford">@RR_Oxford</a>.
-</p>
-
 {% comment %}
   AUDIENCE
 
@@ -91,12 +75,6 @@ href="http://twitter.com/RR_Oxford">@RR_Oxford</a>.
 {% elsif page.carpentry == "lc" %}
   {% include lc/who.html %}
 {% endif %}
-
-<p id="who">
-  <strong>Who:</strong> The course is aimed at students, researchers,
-  and staff of the University of Oxford. <strong>Please register with
-  your .ox.ac.uk email address.</strong>
-</p>
 
 {% comment %}
   LOCATION
@@ -166,7 +144,7 @@ href="http://twitter.com/RR_Oxford">@RR_Oxford</a>.
   through the car park behind the Clarendon Press Building on Walton
   Street. Participants using this entrance who are not from the
   faculties of Linguistics, Philology and Phonetics or Medieval and
-  Modern Languages should contact the organiser in advance of the
+  Modern Languages should contact the host in advance of the
   workshop.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
