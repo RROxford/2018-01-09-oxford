@@ -514,10 +514,11 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
-<div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
+{% comment %}
+<div id="python">  Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
-           Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility {% endcomment %}
+           Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility 
   <h3>Python</h3>
 
   <p>
@@ -598,6 +599,8 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
       </ol>
     </div>
   </div>
+{% endcomment %}
+
 {% comment %}
   <p>
   Once you are done installing the software listed above,
@@ -658,7 +661,8 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
-<div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
+{% comment %}
+<div id="sql">  Start of 'SQLite' section. 
   <h3>SQLite</h3>
 
   <p>
@@ -702,9 +706,12 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
   <p><strong>If you installed Anaconda, it also has a copy of SQLite
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
-</div> {% comment %} End of 'SQLite' section. {% endcomment %}
+</div> 
+{% endcomment %}
+{% comment %} End of 'SQLite' section. {% endcomment %}
 
-<div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
+{% comment %}
+<div id="openrefine"> {% comment %} Start of 'OpenRefine' section. 
   <h3>OpenRefine</h3>
   <p>
     For this lesson you will need <em>OpenRefine</em> and a
@@ -749,7 +756,9 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
       <p>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</p>
     </div>
   </div>
-</div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+</div> 
+{% endcomment %}
+{% comment %} End of 'OpenRefine' section. {% endcomment %}
 
 {% comment %}
 <div id="vm">
