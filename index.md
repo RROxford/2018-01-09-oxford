@@ -611,8 +611,9 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
   </p>
+</div> 
 {% endcomment %}
-</div> {% comment %} End of 'Python' section. {% endcomment %}
+{% comment %} End of 'Python' section. {% endcomment %}
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
