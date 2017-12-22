@@ -716,7 +716,7 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
 {% comment %} End of 'SQLite' section. {% endcomment %}
 
 {% comment %}
-<div id="openrefine"> {% comment %} Start of 'OpenRefine' section. 
+<div id="openrefine"> Start of 'OpenRefine' section. 
   <h3>OpenRefine</h3>
   <p>
     For this lesson you will need <em>OpenRefine</em> and a
@@ -763,6 +763,7 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
   </div>
 </div> 
 {% endcomment %}
+
 {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
 {% comment %}
