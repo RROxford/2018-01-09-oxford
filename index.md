@@ -2,16 +2,16 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "University of Oxford"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Basement Lecture Room, Faculty of Medieval and Modern Languages, 47 Wellington Square, Oxford OX1 2JF"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "1st floor Seminar Room, Ioannou Centre for Classical and Byzantine Studies, 66 St Giles', Oxford OX1 3LU"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "UK"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "EN"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "51.757278, -1.262732"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+latlng: "51.756858, -1.260276"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "January 9--10 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00--17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-01-09      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-01-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Evgenij Belikov", "Robert Beagrie", "Martin Hadley"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Stephen Jones", "TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Stephen Jones"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["stephen.jones@ling-phil.ox.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -140,12 +140,7 @@ eventbrite: "41428949102"          # optional: alphanumeric key for Eventbrite r
   The workshop organisers have checked that:
 </p>
 <ul>
-	<li>The room is wheelchair / scooter accessible. Step-free access is
-	through the car park behind the Clarendon Press Building on Walton
-	Street. If you will be using this entrance and are not from the
-	faculties of Linguistics, Philology and Phonetics or Medieval and
-	Modern Languages, please get in touch (using the contact details
-	below) in advance of the workshop.</li>
+	<li>The main entrance and access to the building is step-free.</li>
 	<li>Accessible restrooms are available.</li>
 </ul>
 <p>
